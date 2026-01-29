@@ -17,28 +17,19 @@ I am an iOS Developer passionate about building and scaling high-performance mob
 * 🎓 **Education:** B.E. in Computer Science (9.37 GPA/CGPA).
 
 
-
 ---
 
-### 🛠 Tech Stack & Tools
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | Swift, C++, C, SQL, Java 
+### 🛠 Tech Stack & Skills
 
- |
-| **Frameworks** | SwiftUI, UIKit, CoreData, SwiftData, Combine 
+| Category            | Technologies                                                                 |
+|---------------------|------------------------------------------------------------------------------|
+| **Languages**       | Swift, C++, C, SQL, Java                                                     |
+| **Frameworks**      | SwiftUI, UIKit, CoreData, SwiftData, Combine                                 |
+| **Architecture**    | MVVM, MVC                                                                    |
+| **Backend/Data**    | RESTful APIs, GraphQL, Firebase, GCD                                         |
+| **DevOps/Tools**    | CI/CD (Fastlane, GitHub Actions), Git, Xcode, Unit/UI Testing                |
 
- |
-| **Architecture** | MVVM, MVC 
-
- |
-| **Backend/Data** | RESTful APIs, GraphQL, Firebase, GCD 
-
- |
-| **DevOps/Tools** | CI/CD (Fastlane, GitHub Actions), Git, XCode, Unit/UI Testing 
-
- |
 
 ---
 
@@ -75,29 +66,23 @@ I am an iOS Developer passionate about building and scaling high-performance mob
 
 ### 📈 Professional Highlights
 
-* 
-**Feature Ownership:** Led development of feature-rich apps from requirement definition to UI implementation.
+* **Feature Ownership:** Led development of feature-rich apps from requirement definition to UI implementation.
 
 
-* 
-**Stability:** Proactively resolved bottlenecks to ensure high performance and app stability.
+* **Stability:** Proactively resolved bottlenecks to ensure high performance and app stability.
 
 
-* 
-**Deployment:** Managed end-to-end App Store deployments ensuring full compliance with Apple's guidelines.
-
+* **Deployment:** Managed end-to-end App Store deployments ensuring full compliance with Apple's guidelines.
 
 
 ---
 
 ### 📫 Reach Me
 
-* 
-**LinkedIn:** [linkedin.com/in/harsh696](https://www.google.com/search?q=https://linkedin.com/in/harsh696) 
+* **LinkedIn:** [linkedin.com/in/harsh696](https://www.google.com/search?q=https://linkedin.com/in/harsh696) 
 
 
-* 
-**Email:** [singhharshvardhan696@gmail.com](mailto:singhharshvardhan696@gmail.com) 
+* **Email:** [singhharshvardhan696@gmail.com](mailto:singhharshvardhan696@gmail.com) 
 
 
 
