@@ -3,7 +3,7 @@
 
 Senior iOS Developer | 3+ Years Experience 
 
-I am an iOS Developer passionate about building and scaling high-performance mobile applications. I have a proven track record of driving significant app growth and delivering seamless user experiences using the latest Apple technologies.
+I am an iOS Developer passionate about building and scaling high-performance iOS mobile applications. I have a proven track record of driving significant app growth and delivering seamless user experiences using the latest Apple technologies.
 
 * 📱 **Currently:** Leading iOS development at **Enjay IT Solutions Ltd.** 
 
@@ -66,7 +66,7 @@ I am an iOS Developer passionate about building and scaling high-performance mob
 
 ### 📈 Professional Highlights
 
-* **Feature Ownership:** Led development of feature-rich apps from requirement definition to UI implementation.
+* **Feature Ownership:** Led development of feature-rich apps from requirement definition to application implementation.
 
 
 * **Stability:** Proactively resolved bottlenecks to ensure high performance and app stability.
